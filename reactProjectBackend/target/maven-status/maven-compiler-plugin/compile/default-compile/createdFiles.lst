@@ -1,0 +1,8 @@
+project/User.class
+project/SecurityConfiguration.class
+project/UserRepository.class
+project/Application.class
+project/MyController.class
+project/CorsConfig.class
+project/UserService.class
+project/WebMvcConfig.class
